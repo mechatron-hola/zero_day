@@ -1,1 +1,1 @@
-This file is mandatory in projects
+install vagrant on vbox and connect to alx using ssh
